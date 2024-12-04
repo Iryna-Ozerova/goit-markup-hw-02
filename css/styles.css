@@ -78,6 +78,7 @@ color: #fff;
 }
 
  .button-hero {
+    font-family: inherit;
      font-weight: 500;
      letter-spacing: 0.04em;
      color: #fff;
